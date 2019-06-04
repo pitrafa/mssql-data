@@ -13,12 +13,6 @@ Description: ==========
         Quick start
         -----------
         
-        1. Add "data" to your INSTALLED_APPS setting like this::
-        
-            INSTALLED_APPS = [
-                ...
-                'data',
-            ]
         
 Platform: UNKNOWN
 Classifier: Environment :: Web Environment

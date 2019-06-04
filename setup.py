@@ -11,6 +11,9 @@ setup(
     name='mssql-data',
     version='0.1',
     packages=find_packages(),
+    install_requires=[
+        'pyodbc',
+    ],
     include_package_data=True,
     license='BSD License',  # example license
     description='A simple Django app to connect to MsSql database.',

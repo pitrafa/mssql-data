@@ -1,7 +1,4 @@
-try:
-    import pyodbc
-except Exception as error:
-    print(error)
+import pyodbc
 
 
 class MsSQL(object):

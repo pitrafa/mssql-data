@@ -5,4 +5,5 @@ data/mssql.py
 mssql_data.egg-info/PKG-INFO
 mssql_data.egg-info/SOURCES.txt
 mssql_data.egg-info/dependency_links.txt
+mssql_data.egg-info/requires.txt
 mssql_data.egg-info/top_level.txt
